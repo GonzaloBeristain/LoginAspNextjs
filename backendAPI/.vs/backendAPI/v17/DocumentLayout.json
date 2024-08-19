@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|e:\\documentos\\programaci\u00F3n\\.net\\asp\\login\\backendapi\\backendapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|e:\\documentos\\programaci\u00F3n\\.net\\asp\\login\\backendapi\\backendapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|e:\\documentos\\programaci\u00F3n\\.net\\asp\\login\\backendapi\\backendapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|e:\\documentos\\programaci\u00F3n\\.net\\asp\\login\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|e:\\documentos\\programaci\u00F3n\\.net\\asp\\login\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A790A08-2823-4F84-AC10-4607AC37D2A3}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backendAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:53:24.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Services\\JwtService.cs",
+              "ToolTip": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "backendAPI\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:51:28.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "backendAPI\\appsettings.json",
+              "ToolTip": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\appsettings.json",
+              "RelativeToolTip": "backendAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T01:48:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Program.cs",
+              "ToolTip": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Program.cs",
+              "RelativeToolTip": "backendAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:45:36.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "E:\\Documentos\\Programaci\u00F3n\\.NET\\ASP\\Login\\backendAPI\\backendAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "backendAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAIgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:54:36.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
